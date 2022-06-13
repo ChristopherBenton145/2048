@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <img src="/assets/images/favicon.ico" alt="Logo" width="80" height="80">
+  <img src="/assets/images/favicon-guthub.ico" alt="Logo" width="80" height="80">
   <h3 align="center">2048</h3>
   <p align="center">
     <br />
